@@ -2,7 +2,7 @@ import streamlit as st
 st.title('SENTIMENT ANALYSER')
 
 import pandas as pd
-df = pd.read_csv('/content/drive/MyDrive/Python-ML/Datasets/data.csv')
+df = pd.read_csv('data.csv')
 
 import nltk
 from nltk.corpus import stopwords
