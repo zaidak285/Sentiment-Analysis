@@ -1,0 +1,7 @@
+streamlit
+pandas
+nltk
+contractions
+re
+vaderSentiment
+sklearn
